@@ -54,7 +54,7 @@
   </ul>
 
   <h2>👨‍💻 Contributors</h2>
-  <p>Made with ❤️ by <strong>Your Name</strong> - <a href="https://github.com/your-profile" target="_blank">GitHub</a></p>
+  <p>Made with ❤️ by <strong>Bharati Pandhare</strong> - <a href="https://github.com/bpandhare" target="_blank">GitHub</a></p>
 
 </body>
 </html>
